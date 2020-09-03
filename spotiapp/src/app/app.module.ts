@@ -15,6 +15,9 @@ import { NavbarComponent } from './components/shared/navbar/navbar.component';
 //Routes
 import {ROUTES} from './app.routes';
 import { NoimagePipe } from './pipes/noimage.pipe';
+import { DomseguroPipe } from './pipes/domseguro.pipe';
+import { TarjetasComponent } from './components/tarjetas/tarjetas.component';
+import { LoadingComponent } from './components/shared/loading/loading.component';
 
 
 
@@ -25,7 +28,10 @@ import { NoimagePipe } from './pipes/noimage.pipe';
     SearchComponent,
     ArtistaComponent,
     NavbarComponent,
-    NoimagePipe
+    NoimagePipe,
+    DomseguroPipe,
+    TarjetasComponent,
+    LoadingComponent
   ],
   imports: [
     BrowserModule,
