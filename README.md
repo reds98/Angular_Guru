@@ -17,16 +17,13 @@ Este repositorio es mi propia colección de información de Angular con tres sim
 2.Tener  una referencia funcional  y  en español
 3.Aprender Angular
 
-#Cursos Recomendados
+##Cursos Recomendados
 La información presente  ha sido recolectada de múltiples sitios pero aun así hay ciertos cursos o tutoriales que han inspirado mayoritariamente este  trabajo por lo que me gustaría dar una mención antes de iniciar.
 
 
-![Angular: De cero a experto](https://www.udemy.com/course/angular-2-fernando-herrera/)
-![Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
+[Angular: De cero a experto](https://www.udemy.com/course/angular-2-fernando-herrera/)
+[Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
 
-## Screenshots
-![Example screenshot](https://www.udemy.com/course/angular-2-fernando-herrera/)
-![Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
 
 
 ## Technologies
