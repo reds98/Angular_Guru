@@ -1,9 +1,9 @@
-# Project Name
-> SpotiApp
+# Angular Guru
+
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Informacion General](#informacion-general)
+* [Cursos Recomendados](#cursos-recomendados)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -11,11 +11,23 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+## Informacion General
+Este repositorio es mi propia colección de información de Angular con tres simples propósitos:
+1.Compartirlo con la comunidad
+2.Tener  una referencia funcional  y  en español
+3.Aprender Angular
+
+#Cursos Recomendados
+La información presente  ha sido recolectada de múltiples sitios pero aun así hay ciertos cursos o tutoriales que han inspirado mayoritariamente este  trabajo por lo que me gustaría dar una mención antes de iniciar.
+
+
+![Angular: De cero a experto](https://www.udemy.com/course/angular-2-fernando-herrera/)
+![Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
 
 ## Screenshots
-![Example screenshot]("https://i.imgur.com/qaouF4W.png")
+![Example screenshot](https://www.udemy.com/course/angular-2-fernando-herrera/)
+![Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
+
 
 ## Technologies
 * Tech 1 - version 1.0
