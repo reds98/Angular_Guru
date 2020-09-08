@@ -1,7 +1,7 @@
 # Angular Guru
 
 
-## Table of contents
+## Tabla de Contenidos
 * [Informacion General](#informacion-general)
 * [Cursos Recomendados](#cursos-recomendados)
 * [Technologies](#technologies)
@@ -13,9 +13,9 @@
 
 ## Informacion General
 Este repositorio es mi propia colección de información de Angular con tres simples propósitos:
-1.Compartirlo con la comunidad
-2.Tener  una referencia funcional  y  en español
-3.Aprender Angular
+* Compartirlo con la comunidad
+* Tener  una referencia funcional  y  en español
+* Aprender Angular
 
 ## Cursos Recomendados
 La información presente  ha sido recolectada de múltiples sitios pero aun así hay ciertos cursos o tutoriales que han inspirado mayoritariamente este  trabajo por lo que me gustaría dar una mención antes de iniciar.
@@ -24,12 +24,22 @@ La información presente  ha sido recolectada de múltiples sitios pero aun así
 * [Angular: De cero a experto](https://www.udemy.com/course/angular-2-fernando-herrera/)
 * [Learn Angular Step-by-step](https://www.youtube.com/playlist?list=PLq5m66kIJ5Z-KNR-xdK2GMiDlLLcpXLLB)
 
+## Herramientas Necesarias y Recomendadas
+
+Las herramientas para poder desarrollar en angular son las siguientes:
+ * [Angular ClI] (https://cli.angular.io/)
+ * [Node.js] (https://nodejs.org/es/)
+ * [Typescript] (https://www.typescriptlang.org/)
+ * [Visual Studio Code] (https://code.visualstudio.com/)
 
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Ejemplos
+* [Comic App](https://musing-nobel-c899da.netlify.app)
+* [SpotiApp](https://competent-pike-99c9dd.netlify.app/#/home)
+
+Los ejemplos se encuentran dentro de este  mismo repositorio  y para iniciar cada uno  solo hay que iniciar
+
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
